@@ -14,7 +14,7 @@ username:String;
 chat: boolean;
 
 @UpdateDateColumn()
-udpdated_at: Date;
+updated_at: Date;
 
 @CreateDateColumn()
 created_at: Date;
