@@ -6,9 +6,6 @@ import "reflect-metadata";
 
 const app = express();
 
-app.get("/",()=>{
-  console.log("usuario cadastrado com sucesso!!!")
-});
 
 app.use(express.json());
 
