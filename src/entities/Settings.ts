@@ -9,7 +9,7 @@ id : String;
 
 @Column()
 username:String;
-
+cl
 @Column()
 chat: boolean;
 
